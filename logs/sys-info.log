@@ -1,0 +1,9 @@
+2025-06-03 17:20:48.643 [] [INFO ] [main] c.m.m.MyMcpServerApplication - [logStarting,53] - Starting MyMcpServerApplication using Java 21.0.7 with PID 11148 (D:\code\myMcpServer\target\classes started by XQ in D:\code\myMcpServer)
+2025-06-03 17:20:48.649 [] [INFO ] [main] c.m.m.MyMcpServerApplication - [logStartupProfileInfo,652] - No active profile set, falling back to 1 default profile: "default"
+2025-06-03 17:20:49.056 [] [INFO ] [main] c.m.m.MyMcpServerApplication - [logStarted,59] - Started MyMcpServerApplication in 0.584 seconds (process running for 0.977)
+2025-06-03 17:21:21.870 [] [INFO ] [main] c.m.m.MyMcpServerApplication - [logStarting,53] - Starting MyMcpServerApplication using Java 21.0.7 with PID 31372 (D:\code\myMcpServer\target\classes started by XQ in D:\code\myMcpServer)
+2025-06-03 17:21:21.873 [] [INFO ] [main] c.m.m.MyMcpServerApplication - [logStartupProfileInfo,652] - No active profile set, falling back to 1 default profile: "default"
+2025-06-03 17:21:22.296 [] [INFO ] [main] c.m.m.MyMcpServerApplication - [logStarted,59] - Started MyMcpServerApplication in 0.601 seconds (process running for 1.023)
+2025-06-03 17:21:45.540 [] [INFO ] [main] c.m.m.MyMcpServerApplicationTests - [logStarting,53] - Starting MyMcpServerApplicationTests using Java 21.0.7 with PID 21372 (started by XQ in D:\code\myMcpServer)
+2025-06-03 17:21:45.540 [] [INFO ] [main] c.m.m.MyMcpServerApplicationTests - [logStartupProfileInfo,652] - No active profile set, falling back to 1 default profile: "default"
+2025-06-03 17:21:46.178 [] [INFO ] [main] c.m.m.MyMcpServerApplicationTests - [logStarted,59] - Started MyMcpServerApplicationTests in 0.829 seconds (process running for 1.465)
